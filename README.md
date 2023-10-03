@@ -5,4 +5,4 @@ Aspiring self taught web developer. Building robust, scalable, and maintainable 
 
 <br />
 
-[![Abdellatif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellatifLabr&show_icons=true&theme=dark)](https://github.com/abdellatifLabr/github-readme-stats)
+[![Abdellatif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellatifLabr&show_icons=true&theme=github_dark)](https://github.com/abdellatifLabr/github-readme-stats)
