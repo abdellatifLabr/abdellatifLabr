@@ -1,7 +1,7 @@
-### Hey! 👋
-
-I'm Abdellatif Labreche.
-Aspiring self taught web developer. Building robust, scalable, and maintainable web applications. Open and willing to learn new skills, languages and technologies as what the job requires.
+### Greetings! 👋 
+I am Abdellatif Labreche, a Full-Stack Engineer with over 4 years of experience building and maintaining web applications.
+I possess a strong command of various programming languages and technologies including Python, JavaScript, Django, React, NextJs, PostgreSQL, Apache Kafka, and more.
+I am passionate about crafting clean, efficient, and scalable code and staying up-to-date with the latest trends in web development.
 
 <br />
 
