@@ -8,5 +8,3 @@ I am passionate about crafting clean, efficient, and scalable code and staying u
 [![Abdellatif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellatifLabr&show_icons=true&theme=github_dark)](https://github.com/abdellatifLabr/github-readme-stats)
 
 <br />
-
-- ✍️ [Blog](https://abdellatiflabr.github.io/blog/)
